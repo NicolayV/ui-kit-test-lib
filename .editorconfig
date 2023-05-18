@@ -1,0 +1,14 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+# Корневой файл EditorConfig
+root = true
+
+# Unix-style newlines with a newline ending every file
+# Для всех файлов используем unix-совместимые переносы строк
+[*]
+end_of_line = lf
+insert_final_newline = true
+# отступы в 2 пробела
+indent_style = space
+indent_size = 2
