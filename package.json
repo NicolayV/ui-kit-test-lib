@@ -1,6 +1,6 @@
 {
   "name": "ui-kit-test-lib-rollup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ui-kit-test-lib",
   "main": "dist/esm/index.js",
   "module": "dist/cjs/index.js",
