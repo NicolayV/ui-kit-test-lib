@@ -8,6 +8,8 @@
 .npmrc
 .vscode
 storybook-static
+npmrc
+package
 
 # testing
 /coverage
